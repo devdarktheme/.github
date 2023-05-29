@@ -2,8 +2,7 @@
 ---
 <h3 align="center">Just a dark theme with red accent</h3>
 
-<summary>Colors</summary><br>
-<table>
+<table align="center">
 	<tr>
 		<th></th>
 		<th></th>
@@ -26,7 +25,7 @@
 		<td><code>hsl(0°, 0%, 9%)</code></td>
 	</tr>
 </table>
-</details>
+
 
 &nbsp;
 
