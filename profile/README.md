@@ -30,5 +30,5 @@
 &nbsp;
 
 <p align="center">
-	<a href="https://github.com/devdarktheme/stable-diffusion-webui-devdark/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=de6161&colorA=252525&colorB=de6161"/></a>
+	<a href="https://github.com/devdarktheme/.github/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=de6161&colorA=252525&colorB=de6161"/></a>
 </p>
